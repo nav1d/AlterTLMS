@@ -1,6 +1,6 @@
 # AlterTLMS
 Alternative thread local memory storage
-# by: Navid Nazari
+Navid Nazari
 ======================================================
 
 - What is AlterTLMS?
